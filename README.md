@@ -83,6 +83,6 @@ PowerPoint – Business storytelling & presentation
 
 📊 [Power BI Dashboard](Power_Bi_Link)
 
-🗄 [SQL Queries]
+🗄 [SQL Queries](Retail_Project_Intership.sql)
 
 📑 [Presentation (PPT)](Retail_Project.pptx)
