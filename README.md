@@ -88,7 +88,11 @@ PowerPoint – Business storytelling & presentation
 📑 [Presentation (PPT)](Retail_Project.pptx)
 
 Powerbi Dashboards :
+Order_Revenue:
 ![Order_Revenue_Dashboards](Order_Revenue_Dashboards.png)
+Customer_Engagement:
 ![Customer_Engagement_Dashboards](Customer_Engagement.png)
-![Customer_Insights_Performance_Dashboards]
-![Store_Performance_Dashboards]
+Customer_Insights_Performance:
+![Customer_Insights_Performance_Dashboards](Customer_Insights_Performance_Overview.png)
+Store_Performance:
+![Store_Performance_Dashboards](Store_Performance.png)
