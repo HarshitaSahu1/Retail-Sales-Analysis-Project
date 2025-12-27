@@ -86,3 +86,9 @@ PowerPoint – Business storytelling & presentation
 🗄 [SQL Queries](Retail_Project_Intership.sql)
 
 📑 [Presentation (PPT)](Retail_Project.pptx)
+
+Powerbi Dashboards :
+![Order_Revenue_Dashboards](Order_Revenue_Dashboards.png)
+![Customer_Engagement_Dashboards]
+![Customer_Insights_Performance_Dashboards]
+![Store_Performance_Dashboards]
