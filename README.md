@@ -81,7 +81,7 @@ PowerPoint – Business storytelling & presentation
 
 🔗 Project Links
 
-📊 Power BI Dashboard: (Paste Power BI Service link here)
+📊 Power BI Dashboard: (Power_Bi_Link)
 
 🗄 SQL Queries: (Link to SQL folder / files)
 
