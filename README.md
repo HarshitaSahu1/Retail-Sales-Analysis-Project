@@ -83,6 +83,6 @@ PowerPoint – Business storytelling & presentation
 
 📊 [Power BI Dashboard](Power_Bi_Link)
 
-🗄 SQL Queries: (Link to SQL folder / files)
+🗄 [SQL Queries]
 
-📑 Presentation (PPT): (Link to PowerPoint file)
+📑 [Presentation (PPT)](Retail_Project.pptx)
